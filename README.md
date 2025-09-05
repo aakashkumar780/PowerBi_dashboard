@@ -7,12 +7,24 @@ To design and implement an interactive Power BI dashboard for Blinkit to track a
 
 #Top 5 Insights got from this project :
 
-Order Volume Trends – Peak orders occur during evenings and weekends, indicating high demand during leisure hours.
+1. Order Volume Trends – Peak orders occur during evenings and weekends, indicating high demand during leisure hours.
 
-Top-Performing Categories – Beverages and Snacks contribute the highest revenue share, while some categories like personal care have lower sales penetration.
+2. Top-Performing Categories – Beverages and Snacks contribute the highest revenue share, while some categories like personal care have lower sales penetration.
 
-Delivery Performance – 80% of orders are delivered within 30 minutes, but delays are common in high-traffic metro areas.
+3. Delivery Performance – 80% of orders are delivered within 30 minutes, but delays are common in high-traffic metro areas.
 
-Customer Segmentation – Repeat customers drive 65% of total revenue, highlighting the importance of customer retention programs.
+4. Customer Segmentation – Repeat customers drive 65% of total revenue, highlighting the importance of customer retention programs.
 
-Regional Insights – Sales are highest in Tier-1 cities (Delhi, Mumbai, Bangalore), while Tier-2 cities show potential for growth with targeted promotions
+5. Regional Insights – Sales are highest in Tier-1 cities (Delhi, Mumbai, Bangalore), while Tier-2 cities show potential for growth with targeted promotions
+
+Vitals KPIs:
+
+1. Total Sales / Revenue – Measures overall revenue generated from customer orders.
+
+2. Total Orders Placed – Tracks the number of orders processed within a selected period.
+
+3. Average Delivery Time – Monitors how quickly orders are fulfilled (e.g., within 10, 20, or 30 minutes).
+
+4. Customer Satisfaction Score (CSAT) – Evaluates customer experience and service quality through feedback ratings.
+
+5. Repeat Customer Rate – Percentage of returning customers vs. new customers, showing customer loyalty and retention.
