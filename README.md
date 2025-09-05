@@ -1,4 +1,4 @@
-# PowerBi_dashboard
+# PowerBi_Blinkit_dashboard
 Blinkit_dashboard
 
 #Objective :
