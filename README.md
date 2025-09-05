@@ -47,3 +47,6 @@ The Blinkit Power BI Dashboard provided a comprehensive view of business perform
 The analysis highlighted key trends such as peak order timings, top-performing product categories, and delivery performance gaps, enabling management to optimize operations, improve customer experience, and boost revenue growth.
 
 Overall, the project demonstrated how data visualization and KPI-driven analytics in Power BI can support data-informed decision-making in the on-demand delivery industry.
+
+<img width="1506" height="810" alt="DASHBOARD" src="https://github.com/user-attachments/assets/590df8f3-ca29-4105-9fac-d22b7f51642a" />
+
