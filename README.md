@@ -1,11 +1,12 @@
 # PowerBi_Blinkit_dashboard
 Blinkit_dashboard
 
-##Objective :
+## Objective :
+
 To design and implement an interactive Power BI dashboard for Blinkit to track and analyze sales performance, order volume, delivery times, and customer satisfaction KPIs. The objective was to transform raw operational data into actionable insights, enabling management to improve efficiency, reduce delays, and enhance customer experience through data-driven decision-making.
 
 
-#Top 5 Insights got from this project :
+## Top 5 Insights got from this project :
 
 1. Order Volume Trends – Peak orders occur during evenings and weekends, indicating high demand during leisure hours.
 
@@ -16,15 +17,34 @@ To design and implement an interactive Power BI dashboard for Blinkit to track a
 4. Customer Segmentation – Repeat customers drive 65% of total revenue, highlighting the importance of customer retention programs.
 
 5. Regional Insights – Sales are highest in Tier-1 cities (Delhi, Mumbai, Bangalore), while Tier-2 cities show potential for growth with targeted promotions
+   
 
-Vitals KPIs:
+## Vitals KPIs:
 
-1. Total Sales / Revenue – Measures overall revenue generated from customer orders.
 
-2. Total Orders Placed – Tracks the number of orders processed within a selected period.
+1. Total Sales / Revenue – Overall revenue generated across all customer orders.
 
-3. Average Delivery Time – Monitors how quickly orders are fulfilled (e.g., within 10, 20, or 30 minutes).
+2. Total Orders Placed – Number of orders processed during a given period.
 
-4. Customer Satisfaction Score (CSAT) – Evaluates customer experience and service quality through feedback ratings.
+3. Average Order Value (AOV) – Revenue per order, showing customer purchase behavior.
 
-5. Repeat Customer Rate – Percentage of returning customers vs. new customers, showing customer loyalty and retention.
+4. Average Delivery Time – Time taken to fulfill an order, a key metric for customer satisfaction.
+
+5. On-Time Delivery Rate (%) – Percentage of orders delivered within the promised 10–30 min window.
+
+6. Customer Satisfaction Score (CSAT) – Feedback-based score reflecting customer experience.
+
+7. Repeat Customer Rate (%) – Share of loyal/repeat buyers compared to new customers.
+
+8. Top-Selling Categories / Products – Identifies the highest revenue-generating product categories (e.g., beverages, snacks).
+
+   
+
+## CONCLUSION:
+
+
+The Blinkit Power BI Dashboard provided a comprehensive view of business performance, covering sales, orders, delivery efficiency, and customer satisfaction. By tracking 8 vital KPIs such as total sales, order volume, delivery time, customer satisfaction, and repeat customer rate, the dashboard transformed raw data into actionable insights.
+
+The analysis highlighted key trends such as peak order timings, top-performing product categories, and delivery performance gaps, enabling management to optimize operations, improve customer experience, and boost revenue growth.
+
+Overall, the project demonstrated how data visualization and KPI-driven analytics in Power BI can support data-informed decision-making in the on-demand delivery industry.
